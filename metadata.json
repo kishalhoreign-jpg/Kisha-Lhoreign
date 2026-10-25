@@ -1,0 +1,6 @@
+{
+  "name": "KLISHÉ — Stationery & Accessories",
+  "description": "Your Everyday Dose of Pretty. Online shop for pink coquette stationery, satin hair bows, journals, pearl claw clips, and curated gift bundles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
